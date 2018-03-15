@@ -1,0 +1,12 @@
+espproject/sentimentAnalysis.class
+espproject/Entities.class
+espproject/callTwitterApi.class
+espproject/SearchTweets.class
+espproject/mongoConnect.class
+espproject/TwitterAPIHelper.class
+espproject/getwords.class
+espproject/Status.class
+espproject/UserMention.class
+espproject/Tweet.class
+espproject/SearchMetadata.class
+espproject/User.class
